@@ -1,6 +1,6 @@
 # redteam - 악성메일 대응 솔루션 (핵심 코드 제외됨)
 - RedTeam 사이트 주소 : http://mert.koreacentral.cloudapp.azure.com:8080/
-
+- 프로젝트 진행 중 배운 것, 이슈는 Wiki를 확인해주세요.
 ## 프로젝트 개요
 
 #### 프로젝트 소개
