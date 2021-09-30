@@ -1,5 +1,5 @@
 # redteam - 악성메일 대응 솔루션 (핵심 코드 제외됨)
-- RedTeam 사이트 주소 : ~http://mert.koreacentral.cloudapp.azure.com:8080/~ 운영 중단
+- RedTeam 사이트 주소 : ~http://mert.koreacentral.cloudapp.azure.com:8080/~ 지원 중단으로 인한 서비스 종료
 - 프로젝트 진행 중 배운 것, 이슈는 [Wiki](https://github.com/kimkc/redteam/wiki)를 확인해주세요.
 ## 프로젝트 개요
 
